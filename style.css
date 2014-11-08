@@ -1,0 +1,19 @@
+/* comments look like this in CSS files */
+
+#navbar {
+  background-color: #000000; /* black */
+  color: #ffffff;            /* white */
+  margin: 0;
+  padding: 0.5em 0; /* 0.5em padding on top/bottom, 0 padding on left/right */
+}
+
+#navbar a {
+  margin: 0;
+  padding: 0.5em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+main {
+  padding: 0.5em;
+}
