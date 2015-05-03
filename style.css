@@ -15,5 +15,22 @@
 }
 
 main {
-  padding: 0.5em;
+  padding: 1.5em;
+}
+
+p1 {
+	color: red;
+}
+
+body {
+	background-color: #ffffff;
+	background-image: url("IMG_3602.jpg"), url("background-gradient.jpg");
+	background-repeat: no-repeat, repeat;
+	background-position: right top;
+	background-attachment: ,fixed;
+	background-size: 15%, 100%;
+}
+
+header{
+	text-align: center;
 }
