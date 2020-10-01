@@ -1,4 +1,4 @@
-website
+Simple Website
 =======
 
-Website template for WiCS' "Make Your Own Website on Github" Day
+A basic and simple website template for WiCS' "Make Your Own Website on Github" Day
