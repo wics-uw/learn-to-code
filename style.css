@@ -1,5 +1,11 @@
 /* comments look like this in CSS files */
 
+
+
+*{ margin:0;  
+  padding:0;} /* in a case where you do not want there to be any margin or padding space around an element you will want to define that there is no margin or padding. because the browser will apply it's default margin/padding to elements, */ 
+
+
 #navbar {
   background-color: #000000; /* black */
   color: #ffffff;            /* white */
